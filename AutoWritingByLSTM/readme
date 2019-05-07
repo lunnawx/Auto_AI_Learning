@@ -1,0 +1,3 @@
+# train LSTM neural network to write novels 
+# training data is <<Anna Karenina>>
+# you can training your own LSTM by switching training data, but only support utf-8
